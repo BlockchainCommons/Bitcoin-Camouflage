@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/13405205/130963010-de9ba270-10ea-489e-bbc8-8600af91efd7.png)
 
-Website link: [https://prayank23.github.io/camouflage/](https://prayank23.github.io/camouflage/)
+Website link: [https://blockchaincommons.github.io/Bitcoin-Camouflage/](https://blockchaincommons.github.io/Bitcoin-Camouflage/)
 
 ### About
 
