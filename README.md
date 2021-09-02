@@ -1,4 +1,4 @@
-# Blockchain Commons `Camouflage`
+# Blockchain Commons Camouflage
 
 ### _by Prayank_
 
@@ -16,10 +16,10 @@ List of issues and pull requests related to privacy for different Bitcoin projec
 
 `Camouflage` is a project that respects the [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles), which are philosophical and technical underpinnings to Blockchain Commons' Gordian technology. This includes:
 
-* **Independence.** `how does it demonstrate independence`
-* **Privacy.** `how does it demonstrate privacy`
-* **Resilience.** `how does it demonstrate resilience`
-* **Openness.** `how does it demonstrate openness`
+* **Independence.**
+* **Privacy.**
+* **Resilience.**
+* **Openness.**
 
 ## Contributing
 
