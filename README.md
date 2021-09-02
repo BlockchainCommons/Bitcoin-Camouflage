@@ -1,109 +1,25 @@
-# Blockchain Commons `$projectname`
+# Blockchain Commons `Camouflage`
 
-<!--Guidelines: https://github.com/BlockchainCommons/secure-template/wiki -->
+### _by Prayank_
 
-### _by $major-authors_
+![image](https://user-images.githubusercontent.com/13405205/130963010-de9ba270-10ea-489e-bbc8-8600af91efd7.png)
 
-**`$ProjectDescription`** is …
+Website link: [https://prayank23.github.io/camouflage/](https://prayank23.github.io/camouflage/)
 
-## Additional Information
+### About
 
-The following files contain…
+List of issues and pull requests related to privacy for different Bitcoin projects
 
-* `$ListOfEssentialDocs`
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Looking at ways to add more anonymity to bitcoin</p>&mdash; halfin (@halfin) <a href="https://twitter.com/halfin/status/1136749815?ref_src=twsrc%5Etfw">January 21, 2009</a></blockquote>
 
 ## Gordian Principles
 
-` $projectname` is a reference implementation meant to display the [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles), which are philosophical and technical underpinnings to Blockchain Commons' Gordian technology. This includes:
+`Camouflage` is a project that respects the [Gordian Principles](https://github.com/BlockchainCommons/Gordian#gordian-principles), which are philosophical and technical underpinnings to Blockchain Commons' Gordian technology. This includes:
 
 * **Independence.** `how does it demonstrate independence`
 * **Privacy.** `how does it demonstrate privacy`
 * **Resilience.** `how does it demonstrate resilience`
 * **Openness.** `how does it demonstrate openness`
-
-Blockchain Commons apps do not phone home and do not run ads. Some are available through various app stores; all are available in our code repositories for your usage.
-
-`REMOVE THIS SECTION UNLESS THIS IS A REFERENCE APP MEANT TO DEMONSTRATE GORDIAN PRINCIPLES`
-
-## Status - Late Alpha
-
-` $projectname`  is currently under active development and in the late alpha testing phase. It should not be used for production tasks until it has had further testing and auditing.
-
-### Roadmap
-
-## Prerequisites
-
-## Installation Instructions
-
-## Usage Instructions
-
-## Origin, Authors, Copyright & Licenses
-
-Unless otherwise noted (either in this [/README.md](./README.md) or in the file's header comments) the contents of this repository are Copyright © 2020 by Blockchain Commons, LLC, and are [licensed](./LICENSE) under the [spdx:BSD-2-Clause Plus Patent License](https://spdx.org/licenses/BSD-2-Clause-Patent.html).
-
-In most cases, the authors, copyright, and license for each file reside in header comments in the source code. When it does not, we have attempted to attribute it accurately in the table below.
-
-This table below also establishes provenance (repository of origin, permalink, and commit id) for files included from repositories that are outside of this repo. Contributors to these files are listed in the commit history for each repository, first with changes found in the commit history of this repo, then in changes in the commit history of their repo of their origin.
-
-| File      | From                                                         | Commit                                                       | Authors & Copyright (c)                                | License                                                     |
-| --------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------ | ----------------------------------------------------------- |
-| exception-to-the-rule.c or exception-folder | [https://github.com/community/repo-name/PERMALINK](https://github.com/community/repo-name/PERMALINK) | [https://github.com/community/repo-name/commit/COMMITHASH]() | 2020 Exception Author  | [MIT](https://spdx.org/licenses/MIT)                        |
-
-### Dependencies
-
-To build  `$projectname` you'll need to use the following tools:
-
-- autotools - Gnu Build System from Free Software Foundation ([intro](https://www.gnu.org/software/automake/manual/html_node/Autotools-Introduction.html)).
-
-### Libraries
-
-The following external libraries are used with `$projectname`:
-
-- [community/repo-name](https://github.com/community/repo-name) — What the library does (use OR fork [version] OR include [version]).
-
-Libraries may be marked as `use` (the current version of the library is used), `fork` (a specific version has been forked to the BCC repos for usage), or `include` (files from a specific version have been included).
-
-### Derived from ...
-
-This  `$projectname` project is either derived from or was inspired by:
-
-- [community/repo-name/](https://github.com/community/repo-name) — Repo that does what, by [developer](https://github.com/developer)  or from  [community](https://community.com).
-
-## Subsequent Usage
-
-### Adapted by ...
-
-These are adaptations, conversions, and wrappers that make `$projectname` available for other languages:
-
-- [community/repo-name/](https://github.com/community/repo-name) — Repo that does what, by [developer](https://github.com/developer)  or from  [community](https://community.com)(language).
-
-### Used by ...
-
-These are other projects that directly use `$projectname`:
-
-- [community/repo-name/](https://github.com/community/repo-name) — Repo that does what, by [developer](https://github.com/developer)  or from  [community](https://community.com)(use OR fork [version] OR include [version]).
-
-Libraries may be marked as `use` (the current version of our repo is used), `fork` (a specific version of our repo has been forked for usage), or `include` (files from a specific version of our repo have been included).
-
-### Used with ...
-
-These are other projects that work with or leverage `$projectname`:
-
-- [community/repo-name/](https://github.com/community/repo-name) — Repo that does what, by [developer](https://github.com/developer)  or from  [community](https://community.com).
-
-## Financial Support
-
-`$projectname` is a project of [Blockchain Commons](https://www.blockchaincommons.com/). We are proudly a "not-for-profit" social benefit corporation committed to open source & open development. Our work is funded entirely by donations and collaborative partnerships with people like you. Every contribution will be spent on building open tools, technologies, and techniques that sustain and advance blockchain and internet security infrastructure and promote an open web.
-
-To financially support further development of `$projectname` and other projects, please consider becoming a Patron of Blockchain Commons through ongoing monthly patronage as a [GitHub Sponsor](https://github.com/sponsors/BlockchainCommons). You can also support Blockchain Commons with bitcoins at our [BTCPay Server](https://btcpay.blockchaincommons.com/).
-
-### Project Sponsors
-
-Thanks to our project sponsors for their support of `$projectname`:
-
-$sponsor-logo-with-link
-
-$sponsor-description
 
 ## Contributing
 
@@ -132,21 +48,9 @@ The following people directly contributed to this repository. You can add your n
 | Name              | Role                | Github                                            | Email                                 | GPG Fingerprint                                    |
 | ----------------- | ------------------- | ------------------------------------------------- | ------------------------------------- | -------------------------------------------------- |
 | Christopher Allen | Principal Architect | [@ChristopherA](https://github.com/ChristopherA) | \<ChristopherA@LifeWithAlacrity.com\> | FDFE 14A5 4ECB 30FC 5D22  74EF F8D3 6C91 3574 05ED |
+| Prayank | Maintainer | [@prayank23](https://github.com/prayank23) | \<prayank@tutanota.de\> | ACAA BAE3 D53E 0E08 B010 168F A3B1 E430 2298 178F |
 
-## Responsible Disclosure
 
-We want to keep all of our software safe for everyone. If you have discovered a security vulnerability, we appreciate your help in disclosing it to us in a responsible manner. We are unfortunately not able to offer bug bounties at this time.
-
-We do ask that you offer us good faith and use best efforts not to leak information or harm any user, their data, or our developer community. Please give us a reasonable amount of time to fix the issue before you publish it. Do not defraud our users or us in the process of discovery. We promise not to bring legal action against researchers who point out a problem provided they do their best to follow the these guidelines.
-
-### Reporting a Vulnerability
-
-Please report suspected security vulnerabilities in private via email to ChristopherA@BlockchainCommons.com (do not use this email for support). Please do NOT create publicly viewable issues for suspected security vulnerabilities.
-
-The following keys may be used to communicate sensitive information to developers:
-
-| Name              | Fingerprint                                        |
-| ----------------- | -------------------------------------------------- |
-| Christopher Allen | FDFE 14A5 4ECB 30FC 5D22  74EF F8D3 6C91 3574 05ED |
+The above keys may be used to communicate sensitive information related to project and anything mentiond on website.
 
 You can import a key by running the following command with that individual’s fingerprint: `gpg --recv-keys "<fingerprint>"` Ensure that you put quotes around fingerprints that contain spaces.
