@@ -36,6 +36,7 @@ Bitcoin Core:
 - [ ] p2p: Introduce node rebroadcast module [#21061](https://github.com/bitcoin/bitcoin/pull/21061)
 - [x] wallet: Decide which coin selection solution to use based on waste metric [#22009](https://github.com/bitcoin/bitcoin/pull/22009)
 - [ ] net: respect -onlynet= when making outbound connections [#22834](https://github.com/bitcoin/bitcoin/pull/22834)
+- [ ] Allow UTXO locks to be written to wallet DB [#23065](https://github.com/bitcoin/bitcoin/pull/23065/)
 
 Bisq:
 
